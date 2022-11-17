@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá, venha conhecer um pouco sobre o meu trabalho 👋
 
+Profissional em Desenvolvimento de Softwares, especializado na área de Desenvolvimento Mobile Android
+Nativo utilizando Kotlin. 
+Campeão na seletiva Nacional para a Worldskills Shangai em 2022 - São Paulo,
+realizados pelo SENAI.
 <!--
 **CarlosFinelli/CarlosFinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![CarlosFinelli GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosfinelli&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfinelli&theme=radical)](https://github.com/CarlosFinelli/github-readme-stats)
