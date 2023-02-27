@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CarlosFinelli GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosfinelli&count_private=true&show_icons=true&theme=radical)
+![CarlosFinelli GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosfinelli&count_private=true&show_icons=true&theme=algolia&bg_color=0,0068d0,003f9e&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfinelli&theme=radical)](https://github.com/CarlosFinelli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfinelli&theme=algolia&bg_color=0,0068d0,003f9e&hide_border=true)](https://github.com/CarlosFinelli/github-readme-stats)
